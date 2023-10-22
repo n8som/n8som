@@ -9,7 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/n8som/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/n8som/azure-network-protocols)
-
+- <b>Linux</b>
+  - [Creating a Folder With Linux](https://github.com/n8som/Creating-a-Folder-with-Linux)
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
