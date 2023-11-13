@@ -12,6 +12,9 @@
 - <b>Linux</b>
   - [Creating a Folder With Linux](https://github.com/n8som/Creating-a-Folder-with-Linux)
   - [Installing, Updating, and Removing Software in Linux](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Linux)
+- <b>Windows</b>
+  - [Creating a Folder With Windows](https://github.com/n8som/Creating-a-Folder-With-Windows)
+
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
