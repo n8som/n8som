@@ -15,6 +15,7 @@
 - <b>Windows</b>
   - [Creating a Folder With Windows](https://github.com/n8som/Creating-a-Folder-With-Windows)
   - [Installing, Updating, and Removing Software in Windows](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Windows)
+  - [Creating, Modifying, and Removing Files and Folders in Windows](https://github.com/n8som/Creating-Modifying-and-Removing-Files-and-Folders-in-Windows/tree/main)
     
 <h2>Connect with me:</h2>
 
