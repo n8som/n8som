@@ -9,10 +9,10 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/n8som/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/n8som/azure-network-protocols)
-- <b>Linux</b>
+- <b>Linux Basics</b>
   - [Creating a Folder With Linux](https://github.com/n8som/Creating-a-Folder-with-Linux)
   - [Installing, Updating, and Removing Software in Linux](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Linux)
-- <b>Windows</b>
+- <b>Windows Basics</b>
   - [Creating a Folder With Windows](https://github.com/n8som/Creating-a-Folder-With-Windows)
   - [Installing, Updating, and Removing Software in Windows](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Windows)
   - [Creating, Modifying, and Removing Files and Folders in Windows](https://github.com/n8som/Creating-Modifying-and-Removing-Files-and-Folders-in-Windows/tree/main)
