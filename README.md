@@ -13,6 +13,7 @@
   - [Creating a Folder With Linux](https://github.com/n8som/Creating-a-Folder-with-Linux)
   - [Installing, Updating, and Removing Software in Linux](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Linux)
   - [Install Software in a Linux Distribution](https://github.com/n8som/Install-Software-in-a-Linux-Distribution)
+  - [Examining Input and Output In Shell](https://github.com/n8som/Examining-Input-and-Output-In-Shell)
 - <b>Windows Basics</b>
   - [Creating a Folder With Windows](https://github.com/n8som/Creating-a-Folder-With-Windows)
   - [Installing, Updating, and Removing Software in Windows](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Windows)
