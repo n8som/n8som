@@ -14,6 +14,7 @@
   - [Installing, Updating, and Removing Software in Linux](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Linux)
   - [Install Software in a Linux Distribution](https://github.com/n8som/Install-Software-in-a-Linux-Distribution)
   - [Examining Input and Output In Shell](https://github.com/n8som/Examining-Input-and-Output-In-Shell)
+  - [Find Files with Linux Commands](https://github.com/n8som/Find-Files-With-Linux-Commands)
 - <b>Windows Basics</b>
   - [Creating a Folder With Windows](https://github.com/n8som/Creating-a-Folder-With-Windows)
   - [Installing, Updating, and Removing Software in Windows](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Windows)
