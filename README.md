@@ -16,6 +16,7 @@
   - [Examining Input and Output In Shell](https://github.com/n8som/Examining-Input-and-Output-In-Shell)
   - [Find Files with Linux Commands](https://github.com/n8som/Find-Files-With-Linux-Commands)
   - [Filter With The grep Command](https://github.com/n8som/Filter-with-grep)
+  - [Manage Files with Linux](https://github.com/n8som/Manage-Files-With-Linux)
 - <b>Windows Basics</b>
   - [Creating a Folder With Windows](https://github.com/n8som/Creating-a-Folder-With-Windows)
   - [Installing, Updating, and Removing Software in Windows](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Windows)
