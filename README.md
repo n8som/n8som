@@ -10,7 +10,6 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/n8som/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/n8som/azure-network-protocols)
 - <b>Linux Basics</b>
-  - [Creating a Folder With Linux](https://github.com/n8som/Creating-a-Folder-with-Linux)
   - [Installing, Updating, and Removing Software in Linux](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Linux)
   - [Install Software in a Linux Distribution](https://github.com/n8som/Install-Software-in-a-Linux-Distribution)
   - [Examining Input and Output In Shell](https://github.com/n8som/Examining-Input-and-Output-In-Shell)
