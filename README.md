@@ -18,6 +18,7 @@
   - [Manage Files with Linux](https://github.com/n8som/Manage-Files-With-Linux)
   - [Manage Authorization With Linux](https://github.com/n8som/Manage-Authorization-in-Linux)
   - [Add and Manage Users With Linux Commands](https://github.com/n8som/Add-and-Manage-Users-With-Linux-Commands)
+  - [Get Help in the Command Line](https://github.com/n8som/Get-Help-in-the-Command-Line)
 - <b>Windows Basics</b>
   - [Creating a Folder With Windows](https://github.com/n8som/Creating-a-Folder-With-Windows)
   - [Installing, Updating, and Removing Software in Windows](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Windows)
