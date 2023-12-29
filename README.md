@@ -21,6 +21,7 @@
   - [Get Help in the Command Line](https://github.com/n8som/Get-Help-in-the-Command-Line)
 - <b>SQL Basics</b>
   - [Perform a SQL Query](https://github.com/n8som/Perform-a-SQL-Query)
+  - [Filter a SQL Query](https://github.com/n8som/Filter-a-SQL-Query)
 - <b>Windows Basics</b>
   - [Creating a Folder With Windows](https://github.com/n8som/Creating-a-Folder-With-Windows)
   - [Installing, Updating, and Removing Software in Windows](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Windows)
