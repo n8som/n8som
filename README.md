@@ -24,6 +24,7 @@
   - [Filter a SQL Query](https://github.com/n8som/Filter-a-SQL-Query)
   - [Applying More Filters in SQL](https://github.com/n8som/Applying-More-Filters-in-SQL)
   - [Filter with AND, OR, and NOT in SQL](https://github.com/n8som/Filter-with-AND-OR-and-NOT-in-SQL)
+  - [Complete a SQL Join](https://github.com/n8som/Complete-a-SQL-Join)
 - <b>Windows Basics</b>
   - [Creating a Folder With Windows](https://github.com/n8som/Creating-a-Folder-With-Windows)
   - [Installing, Updating, and Removing Software in Windows](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Windows)
