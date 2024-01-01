@@ -20,7 +20,7 @@
   - [Add and Manage Users With Linux Commands](https://github.com/n8som/Add-and-Manage-Users-With-Linux-Commands)
   - [Get Help in the Command Line](https://github.com/n8som/Get-Help-in-the-Command-Line)
   - [Decrypt an Encrypted Message in Linux](https://github.com/n8som/Decrypt-an-Encrypted-Message-in-Linux)
-  - [Create Hash Values In Linux]()
+  - [Create Hash Values In Linux](https://github.com/n8som/Create-Hash-Values-in-Linux)
 - <b>SQL Basics</b>
   - [Perform a SQL Query](https://github.com/n8som/Perform-a-SQL-Query)
   - [Filter a SQL Query](https://github.com/n8som/Filter-a-SQL-Query)
