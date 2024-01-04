@@ -27,7 +27,7 @@
   - [Applying More Filters in SQL](https://github.com/n8som/Applying-More-Filters-in-SQL)
   - [Filter with AND, OR, and NOT in SQL](https://github.com/n8som/Filter-with-AND-OR-and-NOT-in-SQL)
   - [Complete a SQL Join](https://github.com/n8som/Complete-a-SQL-Join)
-- <b>Wireshark</b>
+- <b>Packet Sniffing</b>
   - [Analyzing My First Packet With Wireshark](https://github.com/n8som/Analyzing-My-First-Packet-With-Wireshark)
 - <b>Windows Basics</b>
   - [Creating a Folder With Windows](https://github.com/n8som/Creating-a-Folder-With-Windows)
