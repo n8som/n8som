@@ -2,13 +2,6 @@
 
 <h2>IT Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/n8som/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/n8som/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/n8som/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/n8som/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/n8som/azure-network-protocols)
 - <b>Linux Basics</b>
   - [Installing, Updating, and Removing Software in Linux](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Linux)
   - [Install Software in a Linux Distribution](https://github.com/n8som/Install-Software-in-a-Linux-Distribution)
@@ -21,15 +14,24 @@
   - [Get Help in the Command Line](https://github.com/n8som/Get-Help-in-the-Command-Line)
   - [Decrypt an Encrypted Message in Linux](https://github.com/n8som/Decrypt-an-Encrypted-Message-in-Linux)
   - [Create Hash Values In Linux](https://github.com/n8som/Create-Hash-Values-in-Linux)
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/n8som/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/n8som/azure-network-protocols)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/n8som/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/n8som/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/n8som/ticket-lifecycle)
+- <b>Packet Sniffing</b>
+  - [Analyzing My First Packet With Wireshark](https://github.com/n8som/Analyzing-My-First-Packet-With-Wireshark)
+  - [Capturing My First Packet With tcpdump](https://github.com/n8som/Capturing-My-First-Packet-With-tcpdump)
 - <b>SQL Basics</b>
   - [Perform a SQL Query](https://github.com/n8som/Perform-a-SQL-Query)
   - [Filter a SQL Query](https://github.com/n8som/Filter-a-SQL-Query)
   - [Applying More Filters in SQL](https://github.com/n8som/Applying-More-Filters-in-SQL)
   - [Filter with AND, OR, and NOT in SQL](https://github.com/n8som/Filter-with-AND-OR-and-NOT-in-SQL)
   - [Complete a SQL Join](https://github.com/n8som/Complete-a-SQL-Join)
-- <b>Packet Sniffing</b>
-  - [Analyzing My First Packet With Wireshark](https://github.com/n8som/Analyzing-My-First-Packet-With-Wireshark)
-  - [Capturing My First Packet With tcpdump](https://github.com/n8som/Capturing-My-First-Packet-With-tcpdump)
+- <b>Suricata</b>
+  - [Examine Alerts, Logs, and Rules with Suricata]()
 - <b>Windows Basics</b>
   - [Creating a Folder With Windows](https://github.com/n8som/Creating-a-Folder-With-Windows)
   - [Installing, Updating, and Removing Software in Windows](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Windows)
