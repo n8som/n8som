@@ -2,6 +2,8 @@
 
 <h2>IT Projects:</h2>
 
+- <b>Chronicle</b>
+  - [Perform a Query With Chronicle](https://github.com/n8som/Perform-a-Query-with-Chronicle)
 - <b>Linux Basics</b>
   - [Installing, Updating, and Removing Software in Linux](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Linux)
   - [Install Software in a Linux Distribution](https://github.com/n8som/Install-Software-in-a-Linux-Distribution)
