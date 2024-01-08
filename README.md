@@ -26,6 +26,8 @@
 - <b>Packet Sniffing</b>
   - [Analyzing My First Packet With Wireshark](https://github.com/n8som/Analyzing-My-First-Packet-With-Wireshark)
   - [Capturing My First Packet With tcpdump](https://github.com/n8som/Capturing-My-First-Packet-With-tcpdump)
+- <b>Python</b>
+  - [Practice Writing Python Code](https://github.com/n8som/Practice-Writing-Python-Code)
 - <b>Splunk</b>
   - [Perform a Query With Splunk](https://github.com/n8som/Perform-a-Query-With-Splunk)
 - <b>SQL Basics</b>
