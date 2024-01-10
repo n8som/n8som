@@ -2,7 +2,7 @@
 
 <h2>IT Projects:</h2>
 
-- <b>Chronicle</b>
+- <b>Chronicle Basics</b>
   - [Perform a Query With Chronicle](https://github.com/n8som/Perform-a-Query-with-Chronicle)
 - <b>Linux Basics</b>
   - [Installing, Updating, and Removing Software in Linux](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Linux)
@@ -26,10 +26,11 @@
 - <b>Packet Sniffing</b>
   - [Analyzing My First Packet With Wireshark](https://github.com/n8som/Analyzing-My-First-Packet-With-Wireshark)
   - [Capturing My First Packet With tcpdump](https://github.com/n8som/Capturing-My-First-Packet-With-tcpdump)
-- <b>Python</b>
+- <b>Python Basics</b>
   - [Practice Writing Python Code](https://github.com/n8som/Practice-Writing-Python-Code)
   - [Assign Python Variables](https://github.com/n8som/Assign-Python-Variables)
-- <b>Splunk</b>
+  - [Create a Conditional Statement in Python](https://github.com/n8som/Create-a-Conditional-Statement-in-Python)
+- <b>Splunk Basics</b>
   - [Perform a Query With Splunk](https://github.com/n8som/Perform-a-Query-With-Splunk)
 - <b>SQL Basics</b>
   - [Perform a SQL Query](https://github.com/n8som/Perform-a-SQL-Query)
