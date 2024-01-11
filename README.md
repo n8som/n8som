@@ -30,6 +30,7 @@
   - [Assign Python Variables](https://github.com/n8som/Assign-Python-Variables)
   - [Create a Conditional Statement in Python](https://github.com/n8som/Create-a-Conditional-Statement-in-Python)
   - [Create Loops in Python](https://github.com/n8som/Create-Loops-in-Python)
+  - [Define and Call a Function in Python](https://github.com/n8som/Define-and-Call-a-Function-in-Python)
 - <b>Splunk Basics</b>
   - [Perform a Query With Splunk](https://github.com/n8som/Perform-a-Query-With-Splunk)
 - <b>SQL Basics</b>
