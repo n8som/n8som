@@ -32,6 +32,7 @@
   - [Create Loops in Python](https://github.com/n8som/Create-Loops-in-Python)
   - [Define and Call a Function in Python](https://github.com/n8som/Define-and-Call-a-Function-in-Python)
   - [Work with Strings in Python](https://github.com/n8som/Work-with-Strings-in-Python)
+  - [Develop an Algorithm in Python](https://github.com/n8som/Develop-an-Algorithm-in-Python)
 - <b>Splunk Basics</b>
   - [Perform a Query With Splunk](https://github.com/n8som/Perform-a-Query-With-Splunk)
 - <b>SQL Basics</b>
