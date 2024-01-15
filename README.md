@@ -35,7 +35,7 @@
   - [Develop an Algorithm in Python](https://github.com/n8som/Develop-an-Algorithm-in-Python)
   - [Use Regular Expressions to Find Patterns in Python](https://github.com/n8som/Use-Regular-Expressions-to-Find-Patterns-in-Python)
   - [Import and Parse a Text File in Python](https://github.com/n8som/Import-and-Parse-a-Text-File-in-Python)
-  - [Update a File Through a Python Algorithm](https://github.com/n8som/Create-Another-Algorithm)
+  - [Update a File Through a Python Algorithm](https://github.com/n8som/Update-a-File-Through-a-Python-Algorithm)
 - <b>Splunk Basics</b>
   - [Perform a Query With Splunk](https://github.com/n8som/Perform-a-Query-With-Splunk)
 - <b>SQL Basics</b>
