@@ -2,6 +2,8 @@
 
 <h2>IT Projects:</h2>
 
+- <b>Cybersecurity Vulnerability Management Project<b>
+  - [OpenVAS Vulnerability Scanner](https://github.com/n8som/OpenVAS-CyberSecurity-Vulnerability-Management-Project)
 - <b>Chronicle Basics</b>
   - [Perform a Query With Chronicle](https://github.com/n8som/Perform-a-Query-with-Chronicle)
 - <b>Linux Basics</b>
@@ -47,10 +49,6 @@
   - [Complete a SQL Join](https://github.com/n8som/Complete-a-SQL-Join)
 - <b>Suricata</b>
   - [Examine Alerts, Logs, and Rules with Suricata](https://github.com/n8som/Examine-Alerts-Logs-and-Rules-with-Suricata)
-- <b>Windows Basics</b>
-  - [Creating a Folder With Windows](https://github.com/n8som/Creating-a-Folder-With-Windows)
-  - [Installing, Updating, and Removing Software in Windows](https://github.com/n8som/Installing-Updating-and-Removing-Software-in-Windows)
-  - [Creating, Modifying, and Removing Files and Folders in Windows](https://github.com/n8som/Creating-Modifying-and-Removing-Files-and-Folders-in-Windows/tree/main)
     
 <h2>Connect with me:</h2>
 
